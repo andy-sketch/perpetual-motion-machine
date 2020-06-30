@@ -25,7 +25,7 @@ UI设计   梁傲泷 龚祥
 材料
 ======
 ESP32(oled墨水屏)  
-![image](https://github.com/andy-sketch/perpetual-motion-machine/blob/master/images/IMG_20200630_184802.jpg)   
+![image](https://github.com/andy-sketch/perpetual-motion-machine/blob/master/images/Screenshot_20200630_194455.jpg)       
 
 外设展示
 =======
